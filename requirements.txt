@@ -14,7 +14,7 @@ Pillow==2.9.0
 PyJWT==1.0.0
 SQLAlchemy==1.0.9
 WTForms==2.0.2
-Werkzeug==0.10.4
+Werkzeug==0.15.3
 XlsxWriter==0.7.3
 alembic==0.8.3
 apturl==0.5.2
