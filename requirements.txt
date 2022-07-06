@@ -37,7 +37,7 @@ itsdangerous==0.24
 language-selector==0.1
 lightdm-gtk-greeter-settings==1.2.0
 louis==2.6.2
-lxml==3.4.4
+lxml==4.9.1
 menulibre==2.1.2
 mongoengine==0.10.0
 mugshot==0.3.0
